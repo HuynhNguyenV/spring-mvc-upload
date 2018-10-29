@@ -1,0 +1,5 @@
+com/softech/validation/FileValidator.class
+com/softech/model/FileUpload.class
+com/softech/config/MyWebInitializer.class
+com/softech/config/SpringWebConfig.class
+com/softech/controller/UploadController.class
